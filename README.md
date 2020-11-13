@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ I am Abubakar Suraj a web developer from
+Bauchi state but base in Ogun state
+##### I code 
+##### I programmer
