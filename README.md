@@ -103,11 +103,6 @@
 
 </a>
 
-<a href="https://github.com/sadiqabubakar526/FlutterExampleApps">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sadiqabubakar526&repo=FlutterExampleApps&theme=light" />
-
-</a>
 
 
 
@@ -115,7 +110,12 @@
 
 
 
-</a>
+
+
+
+
+
+
 
 <div align="center">
 
