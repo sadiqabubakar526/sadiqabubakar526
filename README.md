@@ -73,9 +73,9 @@
 
 
 
-[![Linkedin: SURAJ ABUBAKAR](https://img.shields.io/badge/-surajabubakar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/Suraj_Abubakar/)
+[![Linkedin: SURAJ ABUBAKAR](https://img.shields.io/badge/-surajabubakar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj_abubakar/)](https://www.linkedin.com/in/Suraj_Abubakar/)
 
-[![GitHub iamSuraj](https://img.shields.io/github/followers/sadiqabubakar526?label=follow&style=social)](https://github.com/sadiqabubakar526)
+[![GitHub Sadiqabubakar526](https://img.shields.io/github/followers/sadiqabubakar526?label=follow&style=social)](https://github.com/sadiqabubakar526)
 
 **Languages and Tools:**  
 
