@@ -71,7 +71,7 @@
 
 - ⚡ Fun fact: I spend almost 1 hours listening songs everyday.
 
-[![Twitter: Sadiq46483443](https://img.shields.io/twitter/follow/@sadiq46483443?style=social
+
 
 [![Linkedin: SURAJ ABUBAKAR](https://img.shields.io/badge/-surajabubakar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/Suraj_Abubakar/)
 
@@ -109,11 +109,11 @@
 
 </a>
 
-<a href="https://github.com/sadiqabubakar526/VelocityX">
 
-<a href="https://github.com/sadiqabubakar526/VelocityX">
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sadiqabubakar526&repo=VelocityX&theme=light" />
+
+
+
 
 </a>
 
