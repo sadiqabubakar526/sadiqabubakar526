@@ -21,7 +21,7 @@
 
 </a>
 
-<a href="https://github.com/iamSuraj">
+<a href="https://github.com/sadiqabubakar526">
 
   <img align="left" alt="Suraj's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 
@@ -45,7 +45,7 @@
 
 </a>
 
-<a href="https://www.youtube.com/mtechviral/">
+
 
   <img align="left" alt="Suraj's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 
@@ -71,7 +71,7 @@
 
 - ⚡ Fun fact: I spend almost 1 hours listening songs everyday.
 
-[![Twitter: Sadiq46483443](https://img.shields.io/twitter/follow/imthepk?style=social)](https://twitter.com/Sadiq46483443)
+[![Twitter: Sadiq46483443](https://img.shields.io/twitter/follow/@sadiq46483443?style=social
 
 [![Linkedin: SURAJ ABUBAKAR](https://img.shields.io/badge/-surajabubakar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/Suraj_Abubakar/)
 
