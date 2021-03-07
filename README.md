@@ -20,18 +20,12 @@
 
 - ⚡ Fun fact **I love to speak publically**
 
-#### It's good to see you here 😄 
-[![Gmail Badge](https://img.shields.io/badge/suraj.surajabubakar443@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:suraj.surajabubakar443@gmail.com)
 
-
+## MY TOP LANGUAGES
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqabubakar526&theme=radical&title_color=8E2DE2&text_color=fff)
 
 Undergrad student of BS-CS ATBU. Resourceful developer, Enjoy problem solving and creating helpful, reliable user experiences for online tech
 companies.
-
-#### Unusual Stuff😄
-- 🌱 I’m currently learning Flutter & dart
-- 💬 Ask me anything about JavaScript stuff
-- 📫 How to reach me: suraj.surajabubakar443@gmail.com 
 
 #### Stack :blue_book:
 
@@ -41,9 +35,6 @@ companies.
 - :paperclip: Knowledge of front end Wordpress development.
 
 ## MY GIT STATS
-|<img src="https://github-readme-stats.vercel.app/api?username=sadiqabubakar526&&show_icons=true&&hide_border=false&&theme=radical&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqabubakar526&&theme=radical&&hide_border=false&&show_icons=true"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=sadiqabubakar526&&show_icons=true&&show_border=true&&theme=radical&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqabubakar526&&theme=radical&&show_border=true&&show_icons=true"/>|
 |---|---|
 
-
-## MY TOP LANGUAGES
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqabubakar526&theme=radical&title_color=8E2DE2&text_color=fff)
