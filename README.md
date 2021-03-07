@@ -1,13 +1,31 @@
 <img align="centre" src="Untitled-1.png"/>
 <h1>Hey there, I'm <a  href="https://https://github.com/sadiqabubakar526">SURAJ ABUBAKAR </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiqabubakar526&label=Profile%20views&color=red&style=flat" alt="sadiqabubakar526" /> </p>
 
+- 🌐 I currently represent DSC at all 3 squares, i.e as a **DSC Lead, Microsoft Learn Student, and AWS Educate Cloud Ambassador**
+
+- 🔭 I’m currently working on **my own Market products**
+
+- 🌱 Lately, I'm learning **Flutter**
+
+- 👯 I’m looking to collaborate on **Any Open Source Project**
+
+- 👨‍💻 All of my projects are available at [GitHub](github.com/sadiqabubakar526)
+
+- 💬 Ask me about **React, Full Stack Development, Android, ML, Cloud Native Computing**
+
+- 📫 Reach me via [Email](mailto:surajabubakar443@gmail.com)
+
+- 📄 Know about my experiences
+
+- ⚡ Fun fact **I love to speak publically**
 
 #### It's good to see you here 😄 
 [![Gmail Badge](https://img.shields.io/badge/suraj.surajabubakar443@gmail.com-30302f?style=flat&logo=Gmail&logoColor=red)](mailto:suraj.surajabubakar443@gmail.com)
 
 
 
-Undergrad student of BS-CS NEDUET. Resourceful developer, Enjoy problem solving and creating helpful, reliable user experiences for online tech
+Undergrad student of BS-CS ATBU. Resourceful developer, Enjoy problem solving and creating helpful, reliable user experiences for online tech
 companies.
 
 #### Unusual Stuff😄
