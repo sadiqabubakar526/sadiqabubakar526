@@ -1,4 +1,4 @@
-<img align="centre" src="Untitled-1.png"/>
+
 <h1>Hey there, I'm <a  href="https://https://github.com/sadiqabubakar526">SURAJ ABUBAKAR </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiqabubakar526&label=Profile%20views&color=red&style=flat" alt="sadiqabubakar526" /> </p>
 
