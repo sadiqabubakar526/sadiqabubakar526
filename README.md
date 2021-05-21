@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my own Market products**
 
-- 🌱 Lately, I'm learning **Flutter**
+- 🌱 Lately, I've been learning **Flutter, Dart, Go, Ruby**
 
 - 👯 I’m looking to collaborate on **Any Open Source Project**
 
@@ -24,7 +24,7 @@
 ## MY TOP LANGUAGES
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadiqabubakar526&theme=radical&title_color=8E2DE2&text_color=fff)
 
-Undergrad student of BS-CS ATBU. Resourceful developer, Enjoy problem solving and creating helpful, reliable user experiences for online tech
+Undergrad student of BS-CS University of jos. Resourceful developer, Enjoy problem solving and creating helpful, reliable user experiences for online tech
 companies.
 
 #### Stack :blue_book:
