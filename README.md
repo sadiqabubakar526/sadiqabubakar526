@@ -1,6 +1,6 @@
 
 <h1>Hey there, I'm <a  href="https://https://github.com/sadiqabubakar526">SURAJ ABUBAKAR </a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<img src="https://raw.githubusercontent.com/sadiqabubakar526/sadiqabubakar526/master/Blog-Gif.gif" width="50%"/></br>
+<img src="https://raw.githubusercontent.com/sadiqabubakar526/sadiqabubakar526/main/Blog-Gif.gif" width="100%"/></br>
 
 </p>
 
