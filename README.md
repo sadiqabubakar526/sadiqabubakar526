@@ -17,13 +17,13 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](github.com/sadiqabubakar526)
 
-- 💬 Ask me about **React, Full Stack Development, Android, ML, Cloud Native Computing**
+- 💬 Ask me about **React, Full Stack Development, Android, ML, Cloud Native Computing, Digital forensics,Cyber security**
 
 - 📫 Reach me via [Email](mailto:surajabubakar443@gmail.com)
 
 - 📄 Know about my experiences
 
-- ⚡ Fun fact **I love to speak publically**
+- ⚡ Fun fact **I love to speak publically**. **I'm a gentleman**
 
 
 
@@ -32,8 +32,8 @@
 
 - :paperclip: HTML / CSS / SCSS /Flutter / PHP 
 - :paperclip: JavaScript / React / jquery /Bootstrap.
-- :paperclip: Knowledge of Linux, Docker and Kubernetes.
-- :paperclip: Knowledge of Linux, Docker and Kubernetes.
+- :paperclip: Knowledge of Linux, Bash and python.
+- :paperclip: Knowledge of Ubuntu.
 
 ## MY GIT STATS
 |<img src="https://github-readme-stats.vercel.app/api?username=sadiqabubakar526&&show_icons=true&&show_border=true&&theme=radical&&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqabubakar526&&theme=radical&&show_border=true&&show_icons=true"/>|
